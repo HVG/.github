@@ -3,10 +3,10 @@ HVG organization common health repo
 
 ---
 
-A [github.com/HVG](https://github.com/HVG) repói között script-ek segítségével terjesztettm közös file-ok, azok *"védett"* könyvtáraiban.
-Lásd még &rarr; `.github/CONTRIBUTING.md`
+A [github.com/HVG](https://github.com/HVG) repÃ³i kÃ¶zÃ¶tt script-ek segÃ­tsÃ©gÃ©vel terjesztett, kÃ¶zÃ¶s file-ok, azok *"vÃ©dett"* kÃ¶nyvtÃ¡raiban.
+LÃ¡sd mÃ©g &rarr; `.github/CONTRIBUTING.md`
 
- - [ ] **TO-DO [@felegy](https://github.com/felegy)** A script, ami szétteríti az itteni, közös file-okat **!**
+ - [ ] **TO-DO [@felegy](https://github.com/felegy)** A script, ami szÃ©tterÃ­ti az itteni, kÃ¶zÃ¶s file-okat **!**
 
 ---
 See also:
